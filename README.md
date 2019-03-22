@@ -13,6 +13,7 @@ Inspired by similar work on the Recalbox fork.
 * Japanese
 * Portuguese (Brazilian)
 * Spanish (Spain)
+* Traditional Chinese
 
 ## How to use the localized EmulationStation
 
@@ -26,7 +27,7 @@ sudo apt-get install -y libboost-system-dev libboost-filesystem-dev libboost-dat
 
 ```
 cd /home/pi/
-git clone --recursive https://github.com/flyinghead/EmulationStation.git
+git clone --recursive https://github.com/Leonard-Lin/EmulationStation.git
 ```
 
 ### Compile EmulationStation
@@ -88,3 +89,4 @@ Thanks to:
 * [hiulit](https://github.com/hiulit) - For the Catalan and Spanish (Spain) translations.
 * [Taranchul](https://github.com/Taranchul) - For the German translations.
 * Unknown - For the Italian translations.
+* [Leonard-Lin](https://github.com/Leonard-Lin) - For the Traditional Chinese translations.
