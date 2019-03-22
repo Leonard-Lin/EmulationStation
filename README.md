@@ -77,7 +77,7 @@ Once you are done, you can [compile EmulationStation](#compile-emulationstation)
 
 ## Author
 
-[flyinghead](https://github.com/flyinghead).
+[Leonard-Lin](https://github.com/Leonard-Lin).
 
 ## Credits
 
