@@ -1,0 +1,1041 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# zh_TW locale for EmulationStation
+# Leonard Lin <leonard.lin@msa.hinet.net>, 2019/03/22.
+#
+#, fuzzy
+
+msgid ""
+msgstr ""
+"Project-Id-Version: retropie-emulationstation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-22 18:00+1200\n"
+"PO-Revision-Date: 2019-03-22 18:00+1200\n"
+"Last-Translator: Leonard Lin <leonard.lin@msa.hinet.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "NAME"
+msgstr "名稱"
+
+msgid "ENTER GAME NAME"
+msgstr "輸入遊戲名稱"
+
+msgid "SORTNAME"
+msgstr "排序名稱"
+
+msgid "ENTER GAME SORT NAME"
+msgstr "輸入遊戲排序名稱"
+
+msgid "DESCRIPTION"
+msgstr "描述"
+
+msgid "ENTER DESCRIPTION"
+msgstr "輸入描述"
+
+msgid "IMAGE"
+msgstr "圖片"
+
+msgid "ENTER PATH TO IMAGE"
+msgstr "輸入圖片路徑名稱"
+
+msgid "VIDEO"
+msgstr "影片"
+
+msgid "ENTER PATH TO VIDEO"
+msgstr "輸入影片路徑"
+
+msgid "MARQUEE"
+msgstr "框選"
+
+msgid "ENTER PATH TO MARQUEE"
+msgstr "輸入框選路徑"
+
+msgid "THUMBNAIL"
+msgstr "縮圖"
+
+msgid "ENTER PATH TO THUMBNAIL"
+msgstr "輸入縮圖路徑"
+
+msgid "RATING"
+msgstr "評分"
+
+msgid "ENTER RATING"
+msgstr "輸入評分"
+
+msgid "RELEASE DATE"
+msgstr "發布日期"
+
+msgid "ENTER RELEASE DATE"
+msgstr "輸入發布日期"
+
+msgid "unknown"
+msgstr "未知的"
+
+msgid "DEVELOPER"
+msgstr "開發廠商"
+
+msgid "ENTER GAME DEVELOPER"
+msgstr "輸入遊戲開發廠商"
+
+msgid "PUBLISHER"
+msgstr "發布廠商"
+
+msgid "ENTER GAME PUBLISHER"
+msgstr "輸入遊戲發布廠商"
+
+msgid "GENRE"
+msgstr "遊戲類型"
+
+msgid "ENTER GAME GENRE"
+msgstr "輸入遊戲類型"
+
+msgid "PLAYERS"
+msgstr "遊戲人數"
+
+msgid "ENTER NUMBER OF PLAYERS"
+msgstr "輸入遊戲人數"
+
+msgid "FAVORITE"
+msgstr "收藏"
+
+msgid "ENTER FAVORITE OFF/ON"
+msgstr "輸入收藏 OFF/ON"
+
+msgid "HIDDEN"
+msgstr "隱藏"
+
+msgid "ENTER HIDDEN OFF/ON"
+msgstr "輸入隱藏 OFF/ON"
+
+msgid "KIDGAME"
+msgstr "兒童遊戲"
+
+msgid "ENTER KIDGAME OFF/ON"
+msgstr "輸入兒童遊戲 OFF/ON"
+
+msgid "PLAY COUNT"
+msgstr "遊玩次數"
+
+msgid "ENTER NUMBER OF TIMES PLAYED"
+msgstr "輸入已遊玩次數"
+
+msgid "LAST PLAYED"
+msgstr "LAST PLAYED"
+
+msgid "ENTER LAST PLAYED DATE"
+msgstr "輸入最近遊玩日期"
+
+msgid "collections"
+msgstr "專輯"
+
+msgid "all"
+msgstr "所有的"
+
+msgid "ALL GAMES"
+msgstr "ALL GAMES"
+
+msgid "recent"
+msgstr "最近的"
+
+msgid "favorites"
+msgstr "最愛的"
+
+msgid "FAVORITES"
+msgstr "FAVORITES"
+
+msgid "COLLECTIONS"
+msgstr "專輯"
+
+msgid "New Collection"
+msgstr "新的專輯"
+
+msgid "Editing the '{1}' Collection. Add/remove games with Y."
+msgstr "修改 '{1}' 個專輯。按紐 Y 添加/移除遊戲。 "
+
+msgid "Finished editing the '{1}' Collection."
+msgstr "完成編輯 '{1}' 個專輯。"
+
+msgid "Added '{1}' to '{2}'"
+msgstr "添加 '{1}' 到 '{2}'。"
+
+msgid "Removed '{1}' from '{2}'"
+msgstr "移除 '{1}' 從 '{2}'。"
+
+msgid "This collection is empty."
+msgstr "這個專輯是空的。"
+
+msgid "None"
+msgstr "無"
+
+msgid "Various"
+msgstr "混合"
+
+msgid "among other titles."
+msgstr "混合在其他標題中。"
+
+msgid "This collection contains {1} games, including {2}"
+msgstr "這個專輯包含 {1} 個遊戲，在 {2} 之中。"
+
+msgid ""
+"IT LOOKS LIKE YOUR SYSTEMS CONFIGURATION FILE HAS NOT BEEN SET UP OR IS "
+"INVALID. YOU'LL NEED TO DO THIS BY HAND, UNFORTUNATELY.\n"
+"\n"
+"VISIT EMULATIONSTATION.ORG FOR MORE INFORMATION."
+msgstr ""
+
+msgid ""
+"WE CAN'T FIND ANY SYSTEMS!\n"
+"CHECK THAT YOUR PATHS ARE CORRECT IN THE SYSTEMS CONFIGURATION FILE, AND "
+"YOUR GAME DIRECTORY HAS AT LEAST ONE GAME WITH THE CORRECT EXTENSION.\n"
+"\n"
+"VISIT EMULATIONSTATION.ORG FOR MORE INFORMATION."
+msgstr ""
+
+msgid "QUIT"
+msgstr "退出"
+
+msgid "PUBLISHER / DEVELOPER"
+msgstr "發布廠商 / 開發廠商"
+
+msgid "{1} STARS"
+msgstr "{1} 顆星"
+
+msgid "0 STARS"
+msgstr "0 顆星"
+
+msgid "FILENAME, ASCENDING"
+msgstr "檔名, 升序"
+
+msgid "FILENAME, DESCENDING"
+msgstr "檔名, 降序"
+
+msgid "RATING, ASCENDING"
+msgstr "評分, 升序"
+
+msgid "RATING, DESCENDING"
+msgstr "評分, 降序"
+
+msgid "TIMES PLAYED, ASCENDING"
+msgstr "遊玩次數, 升序"
+
+msgid "TIMES PLAYED, DESCENDING"
+msgstr "遊玩次數, 降序"
+
+msgid "LAST PLAYED, ASCENDING"
+msgstr "最近遊玩, 升序"
+
+msgid "LAST PLAYED, DESCENDING"
+msgstr "最近遊玩, 降序"
+
+msgid "NUMBER PLAYERS, ASCENDING"
+msgstr "遊戲人數, 升序"
+
+msgid "NUMBER PLAYERS, DESCENDING"
+msgstr "遊戲人數, 降序"
+
+msgid "RELEASE DATE, ASCENDING"
+msgstr "上市日期, 升序"
+
+msgid "RELEASE DATE, DESCENDING"
+msgstr "上市日期, 降序"
+
+msgid "GENRE, ASCENDING"
+msgstr "遊戲類型, 升序"
+
+msgid "GENRE, DESCENDING"
+msgstr "遊戲類型, 降序"
+
+msgid "DEVELOPER, ASCENDING"
+msgstr "開發廠商, 升序"
+
+msgid "DEVELOPER, DESCENDING"
+msgstr "開發廠商, 降序"
+
+msgid "PUBLISHER, ASCENDING"
+msgstr "發布廠商, 升序"
+
+msgid "PUBLISHER, DESCENDING"
+msgstr "發布廠商, 降序"
+
+msgid "SYSTEM, ASCENDING"
+msgstr "遊戲平台, 升序"
+
+msgid "SYSTEM, DESCENDING"
+msgstr "遊戲平台, 降序"
+
+msgid "ADD STAR"
+msgstr "添加星等"
+
+msgid "CANCEL"
+msgstr "取消"
+
+msgid "RATING:"
+msgstr "評分："
+
+msgid "RELEASED:"
+msgstr "上市日期："
+
+msgid "DEVELOPER:"
+msgstr "開發廠商："
+
+msgid "PUBLISHER:"
+msgstr "發布廠商："
+
+msgid "GENRE:"
+msgstr "遊戲類型："
+
+msgid "PLAYERS:"
+msgstr "遊戲人數："
+
+msgid ""
+"Configured scraper is no longer available.\n"
+"Please change the scraping source in the settings."
+msgstr ""
+
+msgid "FINISH"
+msgstr "完成"
+
+msgid "NO GAMES FOUND - SKIP"
+msgstr "沒有找到遊戲資訊 - 按紐 B 快速略過"
+
+msgid "RETRY"
+msgstr "重試"
+
+msgid "SKIP"
+msgstr "略過"
+
+msgid "SEARCH FOR"
+msgstr "要搜尋什麼"
+
+msgid "SEARCH"
+msgstr "搜尋"
+
+msgid "ACCEPT RESULT"
+msgstr "接受結果"
+
+msgid "MENU"
+msgstr "選單"
+
+msgid ""
+"The selected UI mode has nothing to show,\n"
+" returning to UI mode: FULL"
+msgstr ""
+
+msgid "OK"
+msgstr "OK"
+
+msgid "CONFIGURATION"
+msgstr "設定"
+
+msgid "{1} GAME AVAILABLE"
+msgid_plural "{1} GAMES AVAILABLE"
+msgstr[0] "{0} 個遊戲"
+msgstr[1] "{1} 個遊戲"
+
+msgid "CHOOSE"
+msgstr "選擇"
+
+msgid "SELECT"
+msgstr "選擇"
+
+msgid "RANDOM"
+msgstr "隨機"
+
+msgid "LAUNCH SCREENSAVER"
+msgstr "運行螢幕保護功能"
+
+msgid "Full"
+msgstr "FULL"
+
+msgid "Kiosk"
+msgstr "KIOSK"
+
+msgid "Kid"
+msgstr "KID"
+
+msgid "<No Entries Found>"
+msgstr "<沒有任何登錄被找到>"
+
+msgid "SYSTEM"
+msgstr "遊戲平台"
+
+msgid "LAUNCH"
+msgstr "啓動"
+
+msgid "BACK"
+msgstr "返回"
+
+msgid "OPTIONS"
+msgstr "選擇"
+
+msgid "LAST PLAYED:"
+msgstr "最近遊玩:"
+
+msgid "TIMES PLAYED:"
+msgstr "遊玩次數:"
+
+msgid "CLOSE"
+msgstr "關閉"
+
+msgid "SCREENSAVER AFTER"
+msgstr "幾分種後啟動螢幕保護"
+
+msgid "SCREENSAVER CONTROLS"
+msgstr "螢幕保護控制"
+
+msgid "SCREENSAVER BEHAVIOR"
+msgstr "螢幕保護效果"
+
+msgid "dim"
+msgstr "DIM"
+
+msgid "black"
+msgstr "BLACK"
+
+msgid "random video"
+msgstr "RANDOM VIDEO"
+
+msgid "slideshow"
+msgstr "SLIDESHOW"
+
+msgid ""
+"The \"Random Video\" screensaver shows videos from your gamelist.\n"
+"\n"
+"If you do not have videos, or if in several consecutive attempts the games "
+"it selects don't have videos it will default to black.\n"
+"\n"
+"More options in the \"UI Settings\" > \"Video Screensaver\" menu."
+msgstr ""
+
+msgid "USE HARDWARE BACKLIGHT CONTROL"
+msgstr "使用硬體背光控制"
+
+msgid "VIDEO SCREENSAVER SETTINGS"
+msgstr "影片螢幕保護設定"
+
+msgid "SLIDESHOW SCREENSAVER SETTINGS"
+msgstr "幻燈片螢幕保護設定"
+
+msgid "VIDEO SCREENSAVER"
+msgstr "影片螢幕保護"
+
+msgid "SLIDESHOW SCREENSAVER"
+msgstr "幻燈片螢幕保護"
+
+msgid "MAIN MENU"
+msgstr "主選單"
+
+msgid "SCRAPER"
+msgstr "線上抓取遊戲資料""
+
+msgid "SOUND SETTINGS"
+msgstr "音訊設定"
+
+msgid "UI SETTINGS"
+msgstr "使用者介面設定"
+
+msgid "GAME COLLECTION SETTINGS"
+msgstr "遊戲合輯設定"
+
+msgid "OTHER SETTINGS"
+msgstr "其他設定"
+
+msgid "CONFIGURE INPUT"
+msgstr "控制器設定"
+
+msgid "SCRAPE FROM"
+msgstr "抓取遊戲資料來源"
+
+msgid "SCRAPE RATINGS"
+msgstr "抓取遊戲評分"
+
+msgid "SCRAPE NOW"
+msgstr "開始抓取遊戲資料"
+
+msgid "SYSTEM VOLUME"
+msgstr "系統音量"
+
+msgid "AUDIO CARD"
+msgstr "音訊卡"
+
+msgid "local"
+msgstr "LOCAL"
+
+msgid "hdmi"
+msgstr "HDMI"
+
+msgid "both"
+msgstr "BOTH"
+
+msgid "default"
+msgstr "DEFAULT"
+
+msgid "AUDIO DEVICE"
+msgstr "音訊輸出裝置"
+
+msgid "PCM"
+msgstr "PCM"
+
+msgid "Speaker"
+msgstr "SPEAKER"
+
+msgid "Master"
+msgstr "MASTER"
+
+msgid "Digital"
+msgstr "DIGITAL"
+
+msgid "Analogue"
+msgstr "ANALOGUE"
+
+msgid "ENABLE NAVIGATION SOUNDS"
+msgstr "啟動移動導覽的音校"
+
+msgid "ENABLE VIDEO AUDIO"
+msgstr "啟動播放影片的聲音"
+
+msgid "OMX PLAYER AUDIO DEVICE"
+msgstr "OMX 撥放器音訊裝置"
+
+msgid "UI MODE"
+msgstr "UI 模式"
+
+msgid ""
+"You are changing the UI to a restricted mode:\n"
+"{1}\n"
+"This will hide most menu-options to prevent changes to the system.\n"
+"To unlock and return to the full UI, enter this code: \n"
+"\"{2}\"\n"
+"\n"
+"Do you want to proceed?"
+msgstr ""
+
+msgid "YES"
+msgstr "YES"
+
+msgid "NO"
+msgstr "NO"
+
+msgid "SCREENSAVER SETTINGS"
+msgstr "螢幕保護設定"
+
+msgid "QUICK SYSTEM SELECT"
+msgstr "快速選擇遊戲平台 (左右鍵)"
+
+msgid "CAROUSEL TRANSITIONS"
+msgstr "旋轉式轉場"
+
+msgid "TRANSITION STYLE"
+msgstr "轉場風格"
+
+msgid "fade"
+msgstr "FADE"
+
+msgid "slide"
+msgstr "SLIDE"
+
+msgid "instant"
+msgstr "INSTANT"
+
+msgid "THEME SET"
+msgstr "佈景主題設定"
+
+msgid "GAMELIST VIEW STYLE"
+msgstr "遊戲列表顯示風格"
+
+msgid "automatic"
+msgstr "AUTOMATIC"
+
+msgid "basic"
+msgstr "BASIC"
+
+msgid "detailed"
+msgstr "DETAILED"
+
+msgid "video"
+msgstr "VIDEO"
+
+msgid "grid"
+msgstr "GRID"
+
+msgid "START ON SYSTEM"
+msgstr "開機時進入的遊戲平台"
+
+msgid "NONE"
+msgstr "NONE"
+
+msgid "ON-SCREEN HELP"
+msgstr "顯示操作說明"
+
+msgid "ENABLE FILTERS"
+msgstr "啟動過濾器"
+
+msgid "Mb"
+msgstr "Mb"
+
+msgid "VRAM LIMIT"
+msgstr "VRAM LIMIT"
+
+msgid "POWER SAVER MODES"
+msgstr "省電模式"
+
+msgid "disabled"
+msgstr "DISABLED"
+
+msgid "enhanced"
+msgstr "ENHANCED"
+
+msgid "SAVE METADATA ON EXIT"
+msgstr "退出時儲存簡介資訊"
+
+msgid "PARSE GAMESLISTS ONLY"
+msgstr "僅分析遊戲列表"
+
+msgid "SHOW HIDDEN FILES"
+msgstr "顯示隱藏的檔案"
+
+msgid "USE OMX PLAYER (HW ACCELERATED)"
+msgstr "使用 OMX 撥放器 (硬體解碼)"
+
+msgid "SHOW FRAMERATE"
+msgstr "顯示畫面幀率"
+
+msgid "ARE YOU SURE YOU WANT TO CONFIGURE INPUT?"
+msgstr "您確定要進行控制器設定？"
+
+msgid "REALLY RESTART?"
+msgstr "確定要重新啟動嗎？"
+
+msgid "RESTART EMULATIONSTATION"
+msgstr "重新啟動 EMULATIONSTATION"
+
+msgid "REALLY QUIT?"
+msgstr "確定要退出嗎？"
+
+msgid "QUIT EMULATIONSTATION"
+msgstr "退出 EMULATIONSTATION"
+
+msgid "RESTART SYSTEM"
+msgstr "重啟系統"
+
+msgid "REALLY SHUTDOWN?"
+msgstr "確定要關機嗎？"
+
+msgid "SHUTDOWN SYSTEM"
+msgstr "系統關機"
+
+msgid "CREATE NEW CUSTOM COLLECTION FROM THEME"
+msgstr "創建新遊戲專輯的佈景主題"
+
+msgid "SELECT THEME FOLDER"
+msgstr "選擇佈景主題資料夾"
+
+msgid "CREATE NEW CUSTOM COLLECTION"
+msgstr "創建新的遊戲專輯"
+
+msgid "New Collection Name"
+msgstr "新的遊戲專輯名稱"
+
+msgid "GROUP UNTHEMED CUSTOM COLLECTIONS"
+msgstr "集合無佈景主題的自訂遊戲專輯"
+
+msgid "SORT CUSTOM COLLECTIONS AND SYSTEMS"
+msgstr "排序自訂遊戲專輯與遊戲主機"
+
+msgid "FINISH EDITING '{1}' COLLECTION"
+msgstr "完成編輯 '{1}' 個專輯"
+
+msgid "SELECT COLLECTIONS"
+msgstr "選擇專輯"
+
+msgid "AUTOMATIC GAME COLLECTIONS"
+msgstr "自動收錄遊戲專輯"
+
+msgid "CUSTOM GAME COLLECTIONS"
+msgstr "自訂遊戲專輯"
+
+msgid "EDIT METADATA"
+msgstr "編輯簡介資訊"
+
+msgid "SCRAPE"
+msgstr "抓取遊戲資訊"
+
+msgid "SAVE"
+msgstr "儲存"
+
+msgid "THIS WILL DELETE THE ACTUAL GAME FILE(S)!\n"
+"ARE YOU SURE?"
+msgstr "此操作將刪除檔案!\n"
+"是否確定？"
+
+msgid "DELETE"
+msgstr "刪除"
+
+msgid "SAVE CHANGES?"
+msgstr "儲存本次修改嗎？"
+
+msgid "JUMP TO..."
+msgstr "跳到．．．"
+
+msgid "SORT GAMES BY"
+msgstr "遊戲排序方式"
+
+msgid "FILTER GAMELIST"
+msgstr "篩選遊戲清單"
+
+msgid "ADD/REMOVE GAMES TO THIS GAME COLLECTION"
+msgstr "添加/移除遊戲到此遊戲專輯"
+
+msgid "EDIT THIS GAME'S METADATA"
+msgstr "編輯此遊戲的簡介資料"
+
+msgid "SWAP IMAGE AFTER (SECS)"
+msgstr "切換縮圖間隔 (秒)"
+
+msgid "STRETCH IMAGES"
+msgstr "擴大縮圖"
+
+msgid "BACKGROUND AUDIO"
+msgstr "背景音樂"
+
+msgid "USE CUSTOM IMAGES"
+msgstr "使用自訂縮圖"
+
+msgid "CUSTOM IMAGE DIR"
+msgstr "自訂縮圖目錄"
+
+msgid "CUSTOM IMAGE DIR RECURSIVE"
+msgstr "自訂縮圖目錄遞迴"
+
+msgid "CUSTOM IMAGE FILTER"
+msgstr "自訂縮圖篩選"
+
+msgid "FILTER GAMELIST BY"
+msgstr "篩選遊戲清單方式"
+
+msgid "RESET ALL FILTERS"
+msgstr "重置所有篩選"
+
+msgid "FALSE"
+msgstr "FALSE"
+
+msgid "TRUE"
+msgstr "TRUE"
+
+msgid "SWAP VIDEO AFTER (SECS)"
+msgstr "切換視頻間隔 (秒)"
+
+msgid "USE OMX PLAYER FOR SCREENSAVER"
+msgstr "使用 OMX 播放螢幕保護程式"
+
+msgid "SHOW GAME INFO"
+msgstr "顯示遊戲資訊"
+
+msgid "always"
+msgstr "ALWAYS"
+
+msgid "start & end"
+msgstr "START & END"
+
+msgid "never"
+msgstr "NEVER"
+
+msgid "SHOW GAME INFO ON SCREENSAVER"
+msgstr "播放螢幕保護程式時顯示遊戲資訊"
+
+msgid "USE COMPATIBLE LOW RESOLUTION FOR CAPTIONS"
+msgstr "字幕使用相容性低分辨率"
+
+msgid "STRETCH VIDEO ON SCREENSAVER"
+msgstr "影片擴大為全螢幕"
+
+msgid ""
+"Using OMX Player and displaying Game Info may result in the video flickering "
+"in some TV modes. If that happens, consider:\n"
+"\n"
+"- Disabling the \"Show Game Info\" option;\n"
+"- Disabling \"Overscan\" on the Pi configuration menu might help:\n"
+"RetroPie > Raspi-Config > Advanced Options > Overscan > \"No\".\n"
+"- Disabling the use of OMX Player for the screensaver."
+msgstr ""
+
+msgid "GOT IT!"
+msgstr "立即抓取遊戲資料！"
+
+msgid "SCRAPE THESE GAMES"
+msgstr "抓取以下遊戲資訊"
+
+msgid "All Games"
+msgstr "所有遊戲資訊"
+
+msgid "Only missing image"
+msgstr "僅抓取缺少圖片的遊戲資訊"
+
+msgid "FILTER"
+msgstr "篩選"
+
+msgid "SCRAPE THESE SYSTEMS"
+msgstr "抓取以下遊戲主機"
+
+msgid "SYSTEMS"
+msgstr "遊戲主機"
+
+msgid "USER DECIDES ON CONFLICTS"
+msgstr "抓取資訊衝突時由使用者決定"
+
+msgid "START"
+msgstr "開始"
+
+msgid "WARNING: SOME OF YOUR SELECTED SYSTEMS DO NOT HAVE A PLATFORM SET. RESULTS MAY BE EVEN MORE INACCURATE THAN USUAL!\n"
+"CONTINUE ANYWAY?"
+msgstr "警告：您選擇的遊戲平台不在資料庫中。\n"
+"抓取回來的資訊可能不正確！是否繼續執行？
+
+msgid "NO GAMES FIT THAT CRITERIA."
+msgstr "沒有符合的遊戲資訊。"
+
+msgid "INPUT"
+msgstr "輸入"
+
+msgid "SCRAPING IN PROGRESS"
+msgstr "正在抓取遊戲資訊"
+
+msgid "subtitle text"
+msgstr "副標文字"
+
+msgid "STOP"
+msgstr "停止"
+
+msgid "STOP (PROGRESS SAVED)"
+msgstr "停止 (會保存進度)"
+
+msgid "GAME {1} OF {2}"
+msgstr "遊戲 {1} OF {2}"
+
+msgid "NO GAMES WERE SCRAPED."
+msgstr "沒有遊戲資訊被抓取"
+
+msgid "{1} GAME SUCCESSFULLY SCRAPED!"
+msgid_plural "{1} GAMES SUCCESSFULLY SCRAPED!"
+msgstr[0] "{0} 個遊戲資訊抓取成功！"
+msgstr[1] "{1} 個遊戲資訊抓取成功！"
+
+msgid "{1} GAME SKIPPED."
+msgid_plural "{1} GAMES SKIPPED."
+msgstr[0] "略過 {0} 個遊戲資訊。"
+msgstr[1] "略過 {1} 個遊戲資訊。"
+
+msgid "LOADING..."
+msgstr "遊戲平台載入中..."
+
+msgid "CHANGE"
+msgstr "修改"
+
+msgid "{1} day ago"
+msgid_plural "{1} days ago"
+msgstr[0] "{0} 天前"
+msgstr[1] "{1} 天前"
+
+msgid "{1} hour ago"
+msgid_plural "{1} hours ago"
+msgstr[0] "{0} 小時前"
+msgstr[1] "{1} 小時前"
+
+msgid "{1} minute ago"
+msgid_plural "{1} minutes ago"
+msgstr[0] "{0} 分鐘前"
+msgstr[1] "{1} 分鐘前"
+
+msgid "{1} second ago"
+msgid_plural "{1} seconds ago"
+msgstr[0] "{0} 秒鐘前"
+msgstr[1] "{1} 秒鐘前"
+
+msgid "WORKING..."
+msgstr "運行中．．．"
+
+msgid "ACCEPT"
+msgstr "接受"
+
+msgid "SELECT ALL"
+msgstr "選擇全部"
+
+msgid "SELECT NONE"
+msgstr "取消選擇"
+
+msgid "{1} SELECTED"
+msgid_plural "{1} SELECTED"
+msgstr[0] "{0} 個已選擇"
+msgstr[1] "{1} 個已選擇"
+
+msgid "MOVE CURSOR"
+msgstr "移動遊標"
+
+msgid "STOP EDITING"
+msgstr "停止編輯"
+
+msgid "EDIT"
+msgstr "編輯"
+
+msgid "WELCOME"
+msgstr "歡迎"
+
+msgid "{1} GAMEPAD DETECTED"
+msgid_plural "{1} GAMEPADS DETECTED"
+msgstr[0] "偵測到 {0} 支遊戲手把"
+msgstr[1] "偵測到 {1} 支戲手把"
+
+msgid "NO GAMEPADS DETECTED"
+msgstr "沒有偵測到遊戲手把""
+
+msgid "HOLD A BUTTON ON YOUR DEVICE TO CONFIGURE IT."
+msgstr "請長按您要設定的控制器上的任一個按鈕不放。"
+
+msgid "PRESS F4 TO QUIT AT ANY TIME."
+msgstr "退出請按 F4。"
+
+msgid "PRESS ESC TO CANCEL."
+msgstr "按 ESC 鍵或熱鍵取消。"
+
+msgid "DISCARD CHANGES"
+msgstr "放棄本次修改"
+
+msgctxt "button"
+msgid "D-PAD UP"
+msgstr "十字建 上"
+
+msgctxt "button"
+msgid "D-PAD DOWN"
+msgstr "十字建 下"
+
+msgctxt "button"
+msgid "D-PAD LEFT"
+msgstr "十字建 左"
+
+msgctxt "button"
+msgid "D-PAD RIGHT"
+msgstr "十字建 右"
+
+msgctxt "button"
+msgid "START"
+msgstr "開始"
+
+msgctxt "button"
+msgid "SELECT"
+msgstr "選擇/投幣"
+
+msgctxt "button"
+msgid "BUTTON A / EAST"
+msgstr "按鈕 A"
+
+msgctxt "button"
+msgid "BUTTON B / SOUTH"
+msgstr "按鈕 B"
+
+msgctxt "button"
+msgid "BUTTON X / NORTH"
+msgstr "按鈕 X"
+
+msgctxt "button"
+msgid "BUTTON Y / WEST"
+msgstr "按鈕 Y"
+
+msgctxt "button"
+msgid "LEFT SHOULDER"
+msgstr "按鈕 L1"
+
+msgctxt "button"
+msgid "RIGHT SHOULDER"
+msgstr "按鈕 R1"
+
+msgctxt "button"
+msgid "LEFT TRIGGER"
+msgstr "按鈕 L2"
+
+msgctxt "button"
+msgid "RIGHT TRIGGER"
+msgstr "按鈕 R2"
+
+msgctxt "button"
+msgid "LEFT THUMB"
+msgstr "L3 類比搖桿"
+
+msgctxt "button"
+msgid "RIGHT THUMB"
+msgstr "R3 類比搖桿"
+
+msgctxt "button"
+msgid "LEFT ANALOG UP"
+msgstr "L3 類比搖桿 上"
+
+msgctxt "button"
+msgid "LEFT ANALOG DOWN"
+msgstr "L3 類比搖桿 下"
+
+msgctxt "button"
+msgid "LEFT ANALOG LEFT"
+msgstr "L3 類比搖桿 左"
+
+msgctxt "button"
+msgid "LEFT ANALOG RIGHT"
+msgstr "L3 類比搖桿 右"
+
+msgctxt "button"
+msgid "RIGHT ANALOG UP"
+msgstr "R3 類比搖桿 上"
+
+msgctxt "button"
+msgid "RIGHT ANALOG DOWN"
+msgstr "R3 類比搖桿 下"
+
+msgctxt "button"
+msgid "RIGHT ANALOG LEFT"
+msgstr "R3 類比搖桿 左"
+
+msgctxt "button"
+msgid "RIGHT ANALOG RIGHT"
+msgstr "R3 類比搖桿 右"
+
+msgctxt "button"
+msgid "HOTKEY ENABLE"
+msgstr "啟動熱鍵"
+
+msgid "CONFIGURING"
+msgstr "設定"
+
+msgid "KEYBOARD"
+msgstr "鍵盤"
+
+msgid "CEC"
+msgstr "CEC 遙控器"
+
+msgid "GAMEPAD {1}"
+msgstr "遊戲手把 {1}"
+
+msgid "HOLD ANY BUTTON TO SKIP"
+msgstr "長按任一按鈕跳過當前設定"
+
+msgid "-NOT DEFINED-"
+msgstr "-尚未設定-"
+
+msgid ""
+"YOU DIDN'T CHOOSE A HOTKEY ENABLE BUTTON. THIS IS REQUIRED FOR EXITING GAMES "
+"WITH A CONTROLLER. DO YOU WANT TO USE THE SELECT BUTTON DEFAULT ? PLEASE "
+"ANSWER YES TO USE SELECT OR NO TO NOT SET A HOTKEY ENABLE BUTTON."
+msgstr ""
+
+msgid "HOLD FOR {1}S TO SKIP"
+msgid_plural "HOLD FOR {1}S TO SKIP"
+msgstr[0] "按住 {0} 秒跳過"
+msgstr[1] "按住 {1} 秒跳過"
+
+msgid "PRESS ANYTHING"
+msgstr "按下對應按鍵"
+
+msgid "ALREADY TAKEN"
+msgstr "已經設定過了"
