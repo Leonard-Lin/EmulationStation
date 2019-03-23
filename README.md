@@ -42,13 +42,15 @@ make
 
 ### Run EmulationStation
 
-Be aware that your system must be set to the same locale that you want EmulationStation to run on.
-For Traditional Chinese, LANG=zh-TW.UTF-8 ./emulationstation.
+> Be aware that your system must be set to the same locale that you want EmulationStation to run on.
+
 
 ```
 cd /home/pi/EmulationStation
 LANG=[your_locale].UTF-8 ./emulationstation
 ```
+For Traditional Chinese, LANG=zh-TW.UTF-8 ./emulationstation.
+
 
 ### Install EmulationStation
 
