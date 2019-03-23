@@ -49,7 +49,7 @@ make
 cd /home/pi/EmulationStation
 LANG=[your_locale].UTF-8 ./emulationstation
 ```
-For Traditional Chinese, LANG=zh-TW.UTF-8 ./emulationstation.
+For Traditional Chinese, LANG=zh-TW.UTF-8 ./emulationstation
 
 
 ### Install EmulationStation
