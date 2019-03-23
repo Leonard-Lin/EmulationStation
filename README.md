@@ -42,7 +42,7 @@ make
 
 ### Run EmulationStation
 
-> Be aware that your system must be set to the same locale that you want EmulationStation to run on.
+Be aware that your system must be set to the same locale that you want EmulationStation to run on.
 For Traditional Chinese, LANG=zh-TW.UTF-8 ./emulationstation.
 
 ```
