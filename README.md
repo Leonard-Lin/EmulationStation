@@ -46,7 +46,7 @@ make
 
 ```
 cd /home/pi/EmulationStation
-LANG=[your_locale].UTF8 ./emulationstation
+LANG=[your_locale].UTF-8 ./emulationstation
 ```
 
 ### Install EmulationStation
