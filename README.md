@@ -80,7 +80,7 @@ Once you are done, you can [compile EmulationStation](#compile-emulationstation)
 
 ## Author
 
-[Leonard-Lin](https://github.com/Leonard-Lin).
+[flyinghead](https://github.com/flyinghead).
 
 ## Credits
 
