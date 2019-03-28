@@ -50,6 +50,7 @@ cd /home/pi/EmulationStation
 LANG=[your_locale].UTF-8 ./emulationstation
 ```
 > for Traditional Chinese, LANG=zh-TW.UTF-8 ./emulationstation
+
 > but EmulationStation V2.8.0RP-DEV it won't launch :-(
 
 ### Install EmulationStation
@@ -62,6 +63,7 @@ sudo cp -r locale /opt/retropie/supplementary/emulationstation/
 ```
 
 > copy the entire "resources" directory to /opt/retropie/supplementary/emulationstation/
+
 > to avoid the error :
 lvl0: Error - File type unknown! emulationstation: /src/EmulationStation/es-core/src/resources/Font.cpp:17: Font::FontFace::FontFace(ResourceData&&, int): Assertion `!err' failed. Aborted
 
