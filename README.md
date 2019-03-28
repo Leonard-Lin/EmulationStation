@@ -67,6 +67,12 @@ sudo cp -r locale /opt/retropie/supplementary/emulationstation/
 > to avoid the error :
 lvl0: Error - File type unknown! emulationstation: /src/EmulationStation/es-core/src/resources/Font.cpp:17: Font::FontFace::FontFace(ResourceData&&, int): Assertion `!err' failed. Aborted
 
+```
+sudo cp -r resources /opt/retropie/supplementary/emulationstation-dev/
+sudo cp -r locale /opt/retropie/supplementary/emulationstation-dev/
+```
+
+> for ES-DEV copy the entire "resources" & "locale" directory to /opt/retropie/supplementary/emulationstation-dev/
 
 ## How to add a translation
 
