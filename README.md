@@ -51,8 +51,6 @@ LANG=[your_locale].UTF-8 ./emulationstation
 ```
 > for Traditional Chinese, LANG=zh_TW.UTF-8 ./emulationstation
 
-> but EmulationStation V2.8.0RP-DEV it won't launch :-(
-
 ### Install EmulationStation
 
 ```
