@@ -376,7 +376,7 @@ msgid "CLOSE"
 msgstr "關閉"
 
 msgid "SCREENSAVER AFTER"
-msgstr "幾分種後啟動螢幕保護"
+msgstr "幾分鐘後啟動螢幕保護"
 
 msgid "SCREENSAVER CONTROLS"
 msgstr "螢幕保護控制"
