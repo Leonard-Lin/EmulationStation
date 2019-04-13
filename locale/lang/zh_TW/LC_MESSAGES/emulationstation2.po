@@ -496,7 +496,7 @@ msgid "Analogue"
 msgstr "ANALOGUE"
 
 msgid "ENABLE NAVIGATION SOUNDS"
-msgstr "啟動導覽移動時的音校"
+msgstr "啟動導覽移動時的音效"
 
 msgid "ENABLE VIDEO AUDIO"
 msgstr "啟動影片播放時的聲音"
