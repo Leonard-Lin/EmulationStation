@@ -148,7 +148,7 @@ msgid "New Collection"
 msgstr "新的專輯"
 
 msgid "Editing the '{1}' Collection. Add/remove games with Y."
-msgstr "修改 '{1}' 個專輯。按紐 追加/移除遊戲。 "
+msgstr "修改 '{1}' 個專輯。追加/移除遊戲請按 Y。 "
 
 msgid "Finished editing the '{1}' Collection."
 msgstr "完成編輯 '{1}' 個專輯。"
