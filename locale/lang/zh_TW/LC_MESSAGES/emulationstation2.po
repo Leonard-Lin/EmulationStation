@@ -127,16 +127,16 @@ msgid "collections"
 msgstr "專輯"
 
 msgid "all"
-msgstr "所有的"
+msgstr "所有"
 
 msgid "ALL GAMES"
 msgstr "ALL GAMES"
 
 msgid "recent"
-msgstr "最近的"
+msgstr "最近"
 
 msgid "favorites"
-msgstr "最愛的"
+msgstr "最愛"
 
 msgid "FAVORITES"
 msgstr "FAVORITES"
